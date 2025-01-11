@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Ninja Kinfe, Ethiopian Ninja Programmer!
-👨🏼‍💻 At the age of 12, I wrote my first "Hello World" program, marking the beginning of my programming journey.<br>👨🏼‍🎓 I’m still learning and growing every day to master the art of programming.<br>
+👨🏼‍💻 At the age of 10, I wrote my first "Hello World" program, marking the beginning of my programming journey.<br>👨🏼‍🎓 I’m still learning and growing every day to master the art of programming.<br>
 
 # 💫 About Me:
 🛠️ Skills & Expertise:<br>- Frontend Development: HTML, CSS<br>- Desktop Software Development: Python<br><br>🌱 Currently Learning:<br>- Advanced Python frameworks for software development<br>- Flutter for mobile app development
